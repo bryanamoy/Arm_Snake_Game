@@ -1,0 +1,9 @@
+This project represents the snake game. This project was created with ARM assembly and C.
+Load lab6.s, lab6wrapper.c, and startup code.
+Need Serial Terminal:
+  -115200 Baud Rate
+  -8 bit
+  -1 stop bit
+  -no parity
+use i,j,k,l to go up, left, down, right
+ 
